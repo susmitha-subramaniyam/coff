@@ -1,0 +1,1290 @@
+   /* font-family: "Clicker Script", cursive;
+        font-family: "Playfair Display", serif;
+        background: #FFFFFF;
+background: linear-gradient(20deg, rgba(255, 255, 255, 1) 0%, rgba(166, 131, 83, 1) 26%); */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* first */
+.first{
+    background: url(./img/bg.png);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+padding-top: 30px;
+}
+.navul ul{
+    display: flex;
+    list-style: none;
+    gap: 60px;
+    padding-top: 15px;
+}
+.navul ul li{
+      font-family: "Playfair Display", serif;
+      font-weight: 500;
+      font-size: 14px;
+      color: #FFFFFF;
+}
+.logo p{
+font-family: "Clicker Script", cursive;
+font-weight: 400;
+font-size: 35px;
+color: #FFFFFF;
+}
+.btn p{
+       font-family: "Playfair Display", serif;
+      font-weight: 500;
+      font-size: 14px;
+      color: #FFFFFF;
+   
+}
+.btnnav button{
+    color: #1E1E1E;
+    width: 100px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 500;
+      font-size: 14px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-left: 35px;
+}
+.btn{
+    display: flex;
+}
+.sig p{
+    margin-top: 15px;
+}
+.firstcon{
+    margin-left: 93px;
+}
+.firstcon h6{
+     font-family: "Playfair Display", serif;
+      font-weight: 500;
+      font-size: 22px;
+      color: #FFFFFF;
+      margin-top: 80px;
+}
+.firstcon h1{
+    font-family: "Clicker Script", cursive;
+font-weight: 400;
+font-size: 220px;
+color: #FFFFFF;
+}
+.firstcon p{
+     font-family: "Playfair Display", serif;
+      font-weight: 400;
+      font-size: 20px;
+      color: #FFFFFF;
+      line-height: 34px;
+      width: 527px;
+}
+.btnf button{
+     color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-style: bold;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 20px;
+     
+}
+
+/* second */
+.sec{
+    display: flex;
+justify-content: space-around;
+margin-top: 80px;
+min-height: 80vh;
+}
+.left11 h1{
+    color: #603809;
+   font-family: "Playfair Display", serif;
+font-weight: 700;
+font-size: 54px;
+margin-top: 40px;
+}
+.left11 p{
+    color: #707070;
+     font-family: "Playfair Display", serif;
+font-weight: 400;
+width: 585px;
+font-size: 20px;
+line-height: 34px;
+padding-top: 29px;
+
+}
+.btnsec button{
+ color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 29px;
+}
+.right1 img{
+    width: 500px;
+    height: 476px;
+}
+
+/* third */
+.third{
+    min-height: 80vh;
+}
+.topleaf{
+    position: relative;
+}
+.topleaf img{
+    width: 398px;
+    height: 272px;
+    position: absolute;
+    bottom: 30px;
+}
+.title3{
+    text-align: center;
+}
+.title3 h1{
+      color: #603809;
+   font-family: "Playfair Display", serif;
+font-weight: 700;
+font-weight: bold;
+font-size: 54px;
+padding-bottom: 16px;
+
+}
+.title3 p{
+        color: #707070;
+   font-family: "Playfair Display", serif;
+font-weight: 400;
+line-height: 34px;
+font-size: 20px;
+}
+.box{
+    width: 280px;
+    height: 364px;
+    border: 1px solid #fee1ba;
+    background-color: #FFF9F1;
+}
+.b1{
+    text-align: center;
+}
+.b1 h4{
+    padding-top: 10px;
+    color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 22px;
+     font-weight: 700;
+}
+.b1 p{
+    padding-top: 6px;
+   color: #1E1E1E;
+     font-family: "Playfair Display", serif;
+     font-size: 16px;
+     font-weight: 400;
+}
+.b1 h6{
+    padding-top: 6px;
+    color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 18px;
+     font-weight: 700;
+}
+.thr button{
+     color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-style: bold;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 20px;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+/* four */
+.fourth{
+    min-height: 100vh;
+}
+.title4{
+    display: flex;
+   align-items: flex-end;
+   justify-content: flex-end;
+}
+.con4{
+    position: relative;
+    left: -150px;
+    top: -50px;
+    text-align: center;
+}
+.con4 h1{
+   
+    color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 54px;
+     font-weight: 700;
+}
+.con4 p{
+      color: #707070;
+   font-family: "Playfair Display", serif;
+font-weight: 400;
+line-height: 34px;
+font-size: 20px;
+padding-top: 10px;
+}
+.box4{
+    width: 280px;
+    height: 284px;
+    background-color: #FFF9F1;
+     border: 1px solid #fee1ba;
+     text-align: center;
+}
+.box4:first-child{
+    background-color: #FFEED8;
+}
+.fcon4 h5{
+       color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 28px;
+     font-weight: 700;
+     padding-top: 25px;
+     padding-bottom: 8px;
+}
+.fcon4 p{
+      color: #707070;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+    
+     
+}
+.fcon4 img{
+    width: 88px;
+    height: 88px;
+    margin-top: 36px;
+}
+.four{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.bottom4{
+    text-align: center;
+    margin-top: 30px;
+}
+.bottom4 p{
+      color: #707070;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+     padding-bottom: 10px;
+}
+.bottom4 h1{
+      color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 30px;
+     font-weight: 700;
+}
+.bottom4 .btn4 button{
+       color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-style: bold;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 20px;
+}
+
+.branch img{
+   position: relative;
+   bottom: 20px;
+   
+}
+/* fifth */
+.fifth{
+    background:   linear-gradient(rgba(80, 40, 10, 0.65), rgba(80, 40, 10, 0.65)), url(./img/Rectangle\ 14.png);
+    background-position: center;
+    background-size: cover;
+    min-height: 90vh;
+    margin-top: 50px;
+    
+
+}
+
+.fifth{
+    display: flex;
+   justify-content: space-around;
+  padding-top: 50px;
+}
+
+.leftf h1{
+    color: #FFFFFF;
+     font-family: "Playfair Display", serif;
+     font-size: 54px;
+     font-weight: 400;
+     padding-bottom: 10px;
+     width: 575px;
+     font-weight: bold;
+     padding-top: 150px;
+}
+.leftf p{
+    color: #FFFFFF;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+     width: 409px;
+     line-height: 34px;
+     font-weight: bold;
+}
+.btn5 button{
+       color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-style: bold;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 20px;
+}
+
+.bean{
+    position: relative;
+    top: 30px;
+    left: 100px;
+}
+.fifth{
+    position: relative;
+    
+}
+.cup{
+    position: absolute;
+  bottom: 20px;
+right: 200px;
+
+}
+/* sixth */
+.sixth{
+    min-height: 100vh;
+    margin-top: 50px;
+   
+}
+.title6{
+    text-align: center;
+}
+.title6 h1{
+    color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 54px;
+     font-weight: 700;
+     padding-bottom: 20px;
+}
+.title6 p{
+    color: #707070;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+ 
+}
+.branch6{
+    position: relative;
+}
+.branch6 img{
+      position:absolute;
+   width: 498px;
+   height: 272px;
+   right: 0px;
+   top: -80px;
+
+}
+.square p{
+    width: 780px;
+    height: 185px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 36px;
+    color: #707070;
+    text-align: center;
+}
+.square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-top: 130px;
+}
+.arr{
+    background-color: #F9C06A;
+    width: 82px;
+    height: 82px;
+    border-radius: 16px;
+ line-height: 82px;
+ text-align: center;
+}
+.arr1 img{
+    width: 16px;
+    height: 16px;
+}
+.arr1{
+    background-color: #F9C06A;
+    width: 82px;
+    height: 82px;
+    border-radius: 16px;
+ line-height: 82px;
+ text-align: center;
+}
+.arr img{
+    width: 16px;
+    height: 16px;
+}
+.bottom6{
+    text-align: center;
+}
+.bottom6 h5{
+      color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 32px;
+     font-weight: 700;
+     padding-bottom: 20px;
+     padding-top: 28px;
+}
+.bottom6 p{
+     
+    font-weight: 400;
+    font-size: 20px;
+    color: #707070;
+    padding-bottom: 40px;
+}
+.box6{
+ border: 1px solid #F9C06A;
+    width: 980px;
+    height: 524px;
+margin-left: 280px;
+margin-top: 30px;
+background-color: #FFF9F1;
+
+}
+.arr {
+position: relative;
+right: 40px;
+top: 40px;
+}
+.arr1{
+   position: relative; 
+   left: 40px;
+top: 40px;
+}
+.quote{
+    position: relative; 
+    bottom: 150px;
+}
+.branch66 img{
+    position: relative;
+    bottom: 200px;
+    width: 414px;
+    height: 226px;
+}
+/* seventh */
+.seventh{
+    background:  linear-gradient(rgba(80, 40, 10, 0.65), rgba(80, 40, 10, 0.65)),url(./img/Rectangle\ 14.png);
+    background-position: center;
+    background-size: cover;
+       min-height: 60vh;
+}
+.title7{
+    text-align: center;
+    padding-top: 100px;
+}
+.title7 h1{
+      color: #FFFFFF;
+     font-family: "Playfair Display", serif;
+     font-size: 54px;
+     font-weight: 700;
+     padding-bottom: 16px;
+   
+}
+.title7 p{
+     color: #FFFFFF;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+     padding-bottom: 26px;
+}
+.title7 button{
+     color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 22px;
+     font-weight: 700;
+    background-color: #F9C06A;
+    width: 137px;
+    height: 66px;
+    border-radius: 4px;
+    border: 1px solid #F9C06A;
+ position: relative;
+ right: 10px;
+}
+input[type="=email"]{
+      font-weight: 400;
+    font-size: 20px;
+    color: #707070;
+    border: 1px solid #707070;
+ width: 500px;
+ height: 66px;
+ padding-left: 20px;
+     border-radius: 4px;
+}
+.seventh{
+    position: relative;
+}
+.seventh .c1{
+position: absolute;
+top: 200px;
+}
+.seventh .c2{
+position: absolute;
+right: 0;
+top:200px;
+}
+/* eight */
+.eight{
+ background: linear-gradient(
+    to bottom,
+    rgba(186, 100, 2, 0.811),
+    rgba(151, 82, 3, 0.55)
+),url(./img/fotter_image.png);
+    background-position: center;
+    background-size: cover;
+    min-height: 60vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 130px;
+}
+.firstl h3{
+    font-family: "Clicker Script", cursive;
+font-weight: 400;
+font-size: 54px;
+color: #FFFFFF;
+}
+.firstl p{
+    font-family: "Playfair Display", serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+color: #FFFFFF;
+width: 380px;
+padding-top: 20px;
+padding-bottom: 25px;
+
+}
+.firstl ul li{
+    list-style: none;
+    font-family: "Playfair Display", serif;
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+padding-bottom: 20px;
+}
+.firstl h4{
+
+    font-family: "Playfair Display", serif;
+font-weight: 700;
+font-size: 26px;
+color: #FFFFFF;
+padding-bottom: 30px;
+}
+.firstl img{
+    padding-right: 20px;
+}
+@media(min-width:300px) and (max-width:768px){
+    /* first */
+       html, body{
+        overflow-x: hidden;
+    }
+.first{
+    background: url(./img/bg.png);
+           background-position:  center;
+    background-size: cover;
+  min-height: 100vh;
+}
+nav{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+padding-top: 30px;
+}
+.navul ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    padding-top: 15px;
+    flex-direction: column;
+  
+}
+.navul ul li{
+      font-family: "Playfair Display", serif;
+      font-weight: 500;
+      font-size: 14px;
+      color: #FFFFFF;
+
+}
+.logo p{
+font-family: "Clicker Script", cursive;
+font-weight: 400;
+font-size: 35px;
+color: #FFFFFF;
+}
+.btn p{
+       font-family: "Playfair Display", serif;
+      font-weight: 500;
+      font-size: 14px;
+      color: #FFFFFF;
+   
+}
+.btnnav button{
+    color: #1E1E1E;
+    width: 100px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 500;
+      font-size: 14px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-left: 10px;
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+}
+.sig p{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+.firstcon{
+    margin-left: 20px;
+}
+.firstcon h6{
+     font-family: "Playfair Display", serif;
+      font-weight: 500;
+      font-size: 22px;
+      color: #FFFFFF;
+      margin-top: 50px;
+}
+.firstcon h1{
+    font-family: "Clicker Script", cursive;
+font-weight: 400;
+font-size: 100px;
+color: #FFFFFF;
+}
+.firstcon p{
+     font-family: "Playfair Display", serif;
+      font-weight: 400;
+      font-size: 20px;
+      color: #FFFFFF;
+      line-height: 30px;
+      width: 90%;
+}
+.btnf button{
+     color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-style: bold;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 20px;
+      margin-bottom: 30px;
+     
+}
+/* second */
+.sec{
+    display: flex;
+flex-direction: column;
+margin-top: 40px;
+
+}
+.left11{
+    margin-left: 20px;
+}
+.left11 h1{
+    color: #603809;
+   font-family: "Playfair Display", serif;
+font-weight: 700;
+font-size: 50px;
+margin-top: 20px;
+}
+.left11 p{
+    color: #707070;
+     font-family: "Playfair Display", serif;
+font-weight: 400;
+width: 95%;
+font-size: 20px;
+line-height: 34px;
+padding-top: 29px;
+
+}
+.btnsec button{
+ color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 29px;
+}
+.right1 img{
+    width: 90%;
+    height: auto;
+}
+/* third */
+.third{
+    min-height: 100vh;
+}
+.topleaf{
+    position: relative;
+}
+.topleaf img{
+    width: 80%;
+    height: auto;
+    position: absolute;
+    bottom: -10px;
+}
+.title3{
+    text-align: center;
+}
+.title3 h1{
+      color: #603809;
+   font-family: "Playfair Display", serif;
+font-weight: 700;
+font-weight: bold;
+font-size: 40px;
+padding-bottom: 16px;
+margin-top: 100px;
+
+}
+.title3 p{
+        color: #707070;
+   font-family: "Playfair Display", serif;
+font-weight: 400;
+line-height: 34px;
+font-size: 20px;
+}
+.box{
+    width: 280px;
+    height: 364px;
+    border: 1px solid #fee1ba;
+    background-color: #FFF9F1;
+}
+.b1{
+    text-align: center;
+}
+.b1 h4{
+    padding-top: 10px;
+    color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 22px;
+     font-weight: 700;
+}
+.b1 p{
+    padding-top: 6px;
+   color: #1E1E1E;
+     font-family: "Playfair Display", serif;
+     font-size: 16px;
+     font-weight: 400;
+}
+.b1 h6{
+    padding-top: 6px;
+    color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 18px;
+     font-weight: 700;
+}
+.thr button{
+     color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-style: bold;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 20px;
+}
+.three{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+/* four */
+.fourth{
+    min-height: 100vh;
+}
+.title4{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.con4{
+    position: relative;
+    left: 90px;
+    top: -10px;
+    text-align: center;
+}
+.con4 h1{
+   
+    color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 40px;
+     font-weight: 700;
+     margin-top: 150px;
+  
+}
+.con4 p{
+      color: #707070;
+   font-family: "Playfair Display", serif;
+font-weight: 400;
+line-height: 34px;
+font-size: 20px;
+padding-top: 10px;
+}
+.box4{
+    width: 280px;
+    height: 284px;
+    background-color: #FFF9F1;
+     border: 1px solid #fee1ba;
+     text-align: center;
+}
+.box4:first-child{
+    background-color: #FFEED8;
+}
+.fcon4 h5{
+       color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 28px;
+     font-weight: 700;
+     padding-top: 25px;
+     padding-bottom: 8px;
+}
+.fcon4 p{
+      color: #707070;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+    
+     
+}
+.fcon4 img{
+    width: 88px;
+    height: 88px;
+    margin-top: 36px;
+}
+.four{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.bottom4{
+    text-align: center;
+    margin-top: 30px;
+}
+.bottom4 p{
+      color: #707070;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+     padding-bottom: 10px;
+     width: 100%;
+}
+.bottom4 h1{
+      color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 30px;
+     font-weight: 700;
+}
+.bottom4 .btn4 button{
+       color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-style: bold;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 20px;
+}
+
+.branch img{
+    width: 190px;
+    height: 200px;
+     position: relative;
+   bottom: 130px;
+}
+/* fifth */
+.fifth{
+    background:   linear-gradient(rgba(80, 40, 10, 0.65), rgba(80, 40, 10, 0.65)), url(./img/Rectangle\ 14.png);
+    background-position: center;
+    background-size: cover;
+    min-height: 90vh;
+    margin-top: 50px;
+    min-width: 90%;
+    
+
+}
+
+.fifth{
+    display: flex;
+flex-direction: column;
+  padding-top: 50px;
+  background-position: 80% center;
+}
+.leftf{
+    padding-left: 20px;
+}
+.leftf h1{
+    color: #FFFFFF;
+     font-family: "Playfair Display", serif;
+     font-size: 40px;
+     font-weight: 400;
+     padding-bottom: 10px;
+     width: 100%;
+     font-weight: bold;
+     padding-top: 150px;
+}
+.leftf p{
+    color: #FFFFFF;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+     width: 100%;
+     line-height: 34px;
+     font-weight: bold;
+}
+.btn5 button{
+       color: #1E1E1E;
+    width: 134px;
+    height: 48px;
+        font-family: "Playfair Display", serif;
+      font-weight: 700;
+      font-style: bold;
+      font-size: 16px;
+      background-color: #F9C06A;
+      border-radius: 24px;
+      border: 1px solid #F9C06A;
+      margin-top: 20px;
+}
+
+.bean{
+    position: relative;
+    top: 30px;
+    left: 0px;
+    width: 100%;
+    height: auto;
+}
+.fifth{
+    position: relative;
+    
+}
+.cup{
+    position: absolute;
+  bottom: 20px;
+right: 100px;
+ width: 50%;
+    height: auto;
+
+}
+/* sixth */
+.sixth{
+    min-height: 100vh;
+    margin-top: 50px;
+   
+}
+.title6{
+    text-align: center;
+}
+.title6 h1{
+    color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 54px;
+     font-weight: 700;
+     padding-bottom: 20px;
+}
+.title6 p{
+    color: #707070;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 400;
+ 
+}
+.branch6{
+    position: relative;
+}
+.branch6 img{
+      position:absolute;
+   width: 70%;
+   height: auto;
+   right: 0px;
+   top: -20px;
+  z-index: 1;
+
+}
+.square p{
+    width: 80%;
+    height: auto;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 36px;
+    color: #707070;
+    text-align: center;
+
+}
+.square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-top: 130px;
+  
+}
+.arr{
+    background-color: #F9C06A;
+    width: 82px;
+    height: 60px;
+    border-radius: 10px;
+ line-height: 60px;
+ text-align: center;
+}
+.arr1 img{
+    width: 16px;
+    height: 16px;
+}
+.arr1{
+    background-color: #F9C06A;
+    width: 82px;
+    height: 60px;
+    border-radius: 10px;
+ line-height: 60px;
+ text-align: center;
+}
+.arr img{
+    width: 16px;
+    height: 16px;
+}
+.bottom6{
+    text-align: center;
+}
+.bottom6 h5{
+      color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 32px;
+     font-weight: 700;
+     padding-bottom: 20px;
+     padding-top: 28px;
+}
+.bottom6 p{
+     
+    font-weight: 400;
+    font-size: 20px;
+    color: #707070;
+    padding-bottom: 40px;
+}
+.box6{
+ border: 1px solid #F9C06A;
+    width: 80%;
+    height: auto;
+margin-left: 40px;
+margin-top: 30px;
+background-color: #FFF9F1;
+position: relative;
+}
+.arr {
+position: relative;
+right: 25px;
+top: 40px;
+}
+.arr1{
+   position: relative; 
+   left: 25px;
+top: 40px;
+}
+.quote{
+    position: absolute; 
+   top: 100px;
+   left: 20px;
+    width: 10%;
+    height: auto;
+  
+}
+.branch66 img{
+    position: relative;
+    bottom: 220px;
+    width: 90%;
+    height:auto;
+}
+
+/* seventh */
+.seventh{
+    background:  linear-gradient(rgba(80, 40, 10, 0.65), rgba(80, 40, 10, 0.65)),url(./img/Rectangle\ 14.png);
+    background-position:  center;
+    background-size: cover;
+       min-height: 90vh;
+       margin-top: -80px;
+      
+}
+.title7{
+    text-align: center;
+    padding-top: 200px;
+}
+.title7 h1{
+      color: #FFFFFF;
+     font-family: "Playfair Display", serif;
+     font-size: 54px;
+     font-weight: 700;
+     padding-bottom: 16px;
+width: 90%;
+     margin-left: 20px;
+   
+}
+.title7 p{
+     color: #FFFFFF;
+     font-family: "Playfair Display", serif;
+     font-size: 25px;
+     font-weight: 400;
+     padding-bottom: 26px;
+     width: 90%;
+       margin-left: 20px;
+}
+.title7 button{
+     color: #603809;
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     font-weight: 700;
+    background-color: #F9C06A;
+    width: 30%;
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid #F9C06A;
+ position: relative;
+ right: 10px;
+ margin-bottom: 250px;
+}
+input[type="=email"]{
+      font-weight: 400;
+    font-size: 20px;
+    color: #707070;
+    border: 1px solid #707070;
+ width: 50%;
+ height: 50px;
+ padding-left: 20px;
+     border-radius: 4px;
+}
+.seventh{
+    position: relative;
+}
+.seventh .c1{
+position: absolute;
+top: 700px;
+width: 40%;
+height: auto;
+}
+.seventh .c2{
+position: absolute;
+right: 0;
+top:700px;
+width: 40%;
+height: auto;
+}
+
+/* eight */
+.eight{
+ background: linear-gradient(
+    to bottom,
+    rgba(186, 100, 2, 0.811),
+    rgba(151, 82, 3, 0.55)
+),url(./img/fotter_image.png);
+    background-position: center;
+    background-size: cover;
+    min-height: 60vh;
+    display: flex;
+   flex-direction: column;
+    padding-top: 130px;
+    text-align: center;
+}
+.firstl h3{
+    font-family: "Clicker Script", cursive;
+font-weight: 400;
+font-size: 54px;
+color: #FFFFFF;
+}
+.firstl p{
+    font-family: "Playfair Display", serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+color: #FFFFFF;
+width: 100%;
+padding-top: 20px;
+padding-bottom: 25px;
+
+}
+.firstl ul li{
+    list-style: none;
+    font-family: "Playfair Display", serif;
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+padding-bottom: 20px;
+}
+.firstl h4{
+
+    font-family: "Playfair Display", serif;
+font-weight: 700;
+font-size: 26px;
+color: #FFFFFF;
+padding-bottom: 30px;
+}
+.firstl img{
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+}
